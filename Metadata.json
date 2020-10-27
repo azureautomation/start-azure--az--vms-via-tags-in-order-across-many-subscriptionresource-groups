@@ -1,7 +1,7 @@
 {
     "Author": "TSO",
     "ContentSize": 2124,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start-azure-(az)-vms-via-tags-in-order-across-many-subscriptionresource-groups/master/StartAZvms.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start-azure--az--vms-via-tags-in-order-across-many-subscriptionresource-groups/master/StartAZvms.ps1",
     "DownloadCount": 1779,
     "Id": "Start-Azure-AZ-VMs-f9d91af8",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Quick hack to start VM of many Azure Subscription and Resource groups via script in certain order (define by tags)I use in AZ automation account runbook with schedule to start every morning.Please feel free to add logging/more logic.To Stop, I use it with Auto-Shutdown feature of",
     "Title": "Start Azure (AZ) VMs via Tags in order across many Subscription/Resource groups",
     "UpdatedDate": "2018-11-3T00:00:00",
-    "Url": "https://github.com/azureautomation/start-azure-(az)-vms-via-tags-in-order-across-many-subscriptionresource-groups",
+    "Url": "https://github.com/azureautomation/start-azure--az--vms-via-tags-in-order-across-many-subscriptionresource-groups",
     "UserTags": "Azure, Microsoft Azure, Windows Azure Virtual Machines"
 }
